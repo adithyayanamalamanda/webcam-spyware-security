@@ -188,8 +188,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Adithya Yana Mala Manda**
-- GitHub: [@adithya984](www.github.com/adithyayanamalamanda)
+**Adithya YanaMalaManda**
+- GitHub: https://github.com/adithyayanamalamanda
 - Repository: [webcam-spyware-security](https://github.com/adithyayanamalamanda/webcam-spyware-security.git)
 
 ## 🙏 Acknowledgments
